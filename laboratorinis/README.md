@@ -2,7 +2,7 @@
 
 | Variantas | ecoActCode |
 |------------- | ------------- |
-|20   | 11111111111 |
+|4   | 412000 |
 
 
 ### 1. Užduotis
@@ -35,4 +35,4 @@ Išvados:
 
 Shiny R aplikacijos nuotrauka:
 
-![shiny app](img/shiny_example.png)
+![shiny app](img/shinyexample.png)
