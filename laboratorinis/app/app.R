@@ -7,7 +7,7 @@ library(shiny)
 library(shinythemes)
 library(shinyWidgets)
 
-data = read.csv("lab_sodra.csv")
+data = read.csv("lab_sodra.csv", fileEncoding="UTF-8")
 data1 = data %>%
   filter(ecoActCode == 412000)
 
