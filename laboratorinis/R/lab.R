@@ -3,7 +3,7 @@ library(tidyverse)
 library(readr)
 library(ggplot2)
 
-data = read.csv("lab_sodra.csv")
+data = read.csv("lab_sodra.csv", fileEncoding="UTF-8")
 summary(data)
 
 #1
